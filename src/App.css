@@ -1,0 +1,39 @@
+body ,input{
+  font-family: SF Pro Text, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 98px;
+  height: 42px;
+  pointer-events: none;
+  margin: 0px auto;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #FFFFFF;
+
+}
+
+.prompt{
+  margin: 0px auto;
+  margin-top: 30px;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  color: rgba(60, 60, 67, 0.6);
+  display: flex;
+  align-items: center;
+  width: 300px;
+}
+
+a{
+  margin-left: 5px;
+  color: #002DFF;
+  text-decoration: none;
+}
